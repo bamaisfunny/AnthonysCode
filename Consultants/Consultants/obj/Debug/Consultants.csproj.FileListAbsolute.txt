@@ -1,0 +1,17 @@
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\Consultants.exe.config
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\Consultants.exe
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\Consultants.pdb
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\EntityFramework.dll
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\MySql.Data.dll
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\EntityFramework.xml
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.csprojResolveAssemblyReference.cache
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.Form1.resources
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.Properties.Resources.resources
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.csproj.GenerateResource.Cache
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.exe
+c:\users\admina\documents\visual studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.pdb
+C:\Users\AdminA\Documents\Visual Studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.EmailForm.resources
+C:\Users\AdminA\Documents\Visual Studio 2015\Projects\Consultants\Consultants\obj\Debug\Consultants.password.resources
